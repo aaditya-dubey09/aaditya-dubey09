@@ -43,10 +43,9 @@
 
 ## 📝 About Me
 
-I specialize in **frontend development**, creating modern, responsive, and user-friendly web applications. My expertise includes **React, JavaScript, Tailwind CSS, and Git**, ensuring scalable and efficient solutions. 
+<p align="left justify">I specialize in **frontend development**, creating modern, responsive, and user-friendly web applications. My expertise includes **React, JavaScript, Tailwind CSS, and Git**, ensuring scalable and efficient solutions.</p>
 
-I'm always eager to **collaborate, learn new technologies, and contribute to impactful projects**. If you're looking for a developer with a keen eye for detail and a passion for clean, maintainable code, let's connect!
-
+<p align="left justify">I'm always eager to **collaborate, learn new technologies, and contribute to impactful projects**. If you're looking for a developer with a keen eye for detail and a passion for clean, maintainable code, let's connect!</p>
 ---
 
 ## 🔥 GitHub Stats
