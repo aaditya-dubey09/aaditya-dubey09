@@ -17,7 +17,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: [aadityadubey12591@outlook.com](mailto:aadityadubey12591@outlook.com)
-- 🌍 Portfolio: [aadityadubey.me](#)
+- 🌍 Portfolio: [aadityadubey.me](https://aadityadubey.netlify.app)
 - ✍️ Blog: [Tales from the Rustic Realm](https://therusticreveriehub.blogspot.com)
 
 ---
