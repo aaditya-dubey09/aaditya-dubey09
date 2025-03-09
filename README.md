@@ -54,7 +54,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aaditya-dubey09&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+</p><br />
+
+![](https://github-readme-stats.vercel.app/api?username=aaditya-dubey09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya-dubey09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
 
 
 
@@ -71,3 +75,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aaditya-dubey09&theme=onedark&no-frame=true&column=7" />
 </p>
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aaditya-dubey09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aaditya-dubey09&icon=0&color=0)](https://visitcount.itsvg.in)
