@@ -18,7 +18,7 @@
 ## 📫 How to Reach Me
 
 - 🌍 Portfolio: [aadityadubey.me](https://aadityadubey.netlify.app)
-- ✍️ Blog: [Tales from the Rustic Realm](https://therusticreveriehub.blogspot.com)
+- ✍️ Blog: [DevOdyssey](https://devodyssey.netlify.app)
 
 
 
