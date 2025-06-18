@@ -1,3 +1,5 @@
+<!--=======<p align="right"> <img src="https://komarev.com/ghpvc/?username=aaditya-dubey09&label=Profile%20views&color=0e75b6&style=flat" alt="Aaditya" /> </p>========-->
+
 <h1 align="center">Hi there, I'm Aaditya Dubey 👋</h1>
 
 <p align="center">
