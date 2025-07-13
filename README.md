@@ -64,16 +64,7 @@
 
 
 
-## 🏆 GitHub Achievements & Trophies
-
-### **🎖 Achievements**
-<p align="center">
-  <img src="https://github.com/aaditya-dubey09.png" width="50"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="80" alt="Pull Shark" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="80" alt="Quickdraw" />
-</p>
-
-### **🏅 Trophies**
+## **🏅 GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aaditya-dubey09&theme=onedark&no-frame=true&column=7" />
 </p>
