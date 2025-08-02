@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Aaditya 👋</h1>
 
 <p align="center">
-  A passionate Frontend Developer dedicated to crafting high-quality, performant, and user-centric digital experiences.
+  A passionate FullStack Developer dedicated to crafting high-quality, performant, and user-centric digital experiences.
 </p>
 
 
@@ -20,7 +20,7 @@
 ## 📫 How to Reach Me
 
 - 🌍 Portfolio: [aadityadubey.me](https://aadityadubey.netlify.app)
-- ✍️ Blog: [DevOdyssey](https://devodyssey.netlify.app)
+- ✍️ Blog: [DevOdyssey](https://devodyssey.vercel.app)
 
 
 
@@ -29,16 +29,16 @@
 <br /><br />
 <p align="center">
   <a href="https://linkedin.com/in/aadityadubey" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
   </a>
   <a href="https://github.com/aaditya-dubey09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   </a>
   <a href="https://twitter.com/itsaadi_09" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/>
   </a>
   <a href="https://instagram.com/cosmosphile946" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 
 ## 📝 About Me
 
-<p align="left justify">I specialize in frontend development, creating modern, responsive, and user-friendly web applications. My expertise includes React, JavaScript, Tailwind CSS, and Git, ensuring scalable and efficient solutions.</p>
+<p align="left justify">I specialize in fullstack development, creating modern, responsive, and user-friendly web applications. My expertise includes MERN, NextJS, Tailwind CSS, and Git, ensuring scalable and efficient solutions.</p>
 
 <p align="left justify">I'm always eager to collaborate, learn new technologies, and contribute to impactful projects. If you're looking for a developer with a keen eye for detail and a passion for clean, maintainable code, let's connect!</p>
 
