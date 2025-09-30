@@ -66,4 +66,4 @@ I'm a full-stack developer and a technical team member <a href="https://upcolleg
 - Sharing updates on <a href="https://www.linkedin.com/in/aadityadubey/">LinkedIn</a> 💼
 - Or contact me directly via [email](mailto:ad2340033@gmail.com) ✉️
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aaditya-dubey09&label=Profile%20views&color=0e75b6&style=flat" alt="Aaditya" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aaditya-dubey09&label=Visitors&color=0e75b6&style=flat" alt="Aaditya" />
