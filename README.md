@@ -36,6 +36,8 @@ I'm a full-stack developer and a technical team member <a href="https://upcolleg
 
 <div align="center">
 
+[![An image of @aadityadubey09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadityadubey09)](https://holopin.io/@aadityadubey09)
+
 ```diff
 + 🎯 20+ Repositories Created
 + 🏷️ 300+ Commits Committed
