@@ -1,6 +1,6 @@
 # Hi, I'm Aaditya 👋 👨‍💻
 
-I'm a self-taught full-stack developer and a technical team member <a href="https://upcollege.ac.in/" target="_blank">@ecell_upcollege</a> with a passion for building robust and scalable platforms. I usually build with the <a href="https://www.mongodb.com/resources/languages/mern-stack" target="_blank">MERN stack,</a> and I'm currently learning app dev in <a href="https://reactnative.dev/docs/environment-setup">React Native</a>. I'm particularly excited about integrating AI into my projects and creating fully automated systems.
+I'm a self-taught full-stack developer and a technical team member <a href="https://instagram.com/ecell_upcollege/" target="_blank">@ecell_upcollege</a> with a passion for building robust and scalable platforms. I usually build with the <a href="https://www.mongodb.com/resources/languages/mern-stack" target="_blank">MERN stack,</a> and I'm currently learning app dev in <a href="https://reactnative.dev/docs/environment-setup">React Native</a>. I'm particularly excited about integrating AI into my projects and creating fully automated systems.
 
 ## Technologies I'd worked with...
 
