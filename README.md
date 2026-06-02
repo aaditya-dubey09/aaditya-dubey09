@@ -21,15 +21,9 @@ I'm a self-taught full-stack developer and a technical team member <a href="http
 ## Dashboard
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaditya-dubey09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya-dubey09&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 
-</div>
-
-<div align="center">
-  
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya-dubey09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaditya-dubey09&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+![Language Stats](stats/leaderboard_by_lines.png)
 
 </div>
 
