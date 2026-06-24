@@ -38,6 +38,6 @@ I'm a self-taught full-stack developer and a technical team member <a href="http
 
 - Know more about <a href="https://aadityadubey.vercel.app">me</a>
 - Connect with me on <a href="https://linkedin.com/in/aadityadubey/">LinkedIn</a>
-- Or contact me directly via [mail](mailto:aadityadubey@gmail.com)
+- Or contact me directly via [mail](mailto:aadityadubey219@gmail.com)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aaditya-dubey09&label=Visitors&color=0e75b6&style=flat" alt="Aaditya" />
